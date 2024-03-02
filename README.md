@@ -11,7 +11,7 @@ Clone the repository (git clone "repo_url") and paste all the downloaded files o
 Then go to "localhost" on any installed web-browser. After that, you should see text at the top and a bird image below it.
 
 ## Troubleshooting:
-At first you might see a blank page. First check if the Apache server is running, you can do it by using the following command:
+At first you might see a blank page. Don't panic! First check if the Apache server is running, you can do it by using the following command:
 ```
 sudo services Apache2 status.
 ```
