@@ -31,4 +31,4 @@ Is now running correctly? Congratulations! Otherwise, just search for support (P
 - Carnet: 24003175
 
 ## Disclaimer 🤗:
-No birds were harmed. This image was generated with **Leonardo AI**. Don't try to feed a bird with milk, you might kill them. 🦜☠️
+No birds were harmed. This image was generated with **Leonardo AI** 🤖. Don't try to feed a bird with milk, you might kill them. 🦜☠️
